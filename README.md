@@ -54,7 +54,7 @@
 
 ### 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://power-x-fitness.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/harsha-ithireddy-91b176258/)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/HarshaIthireddy/)
 [![GFG](https://img.shields.io/badge/-GeeksforGeeks-darkgreen?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/harshaithireddy/)
 [![CodeChef](https://img.shields.io/badge/-CodeChef-brown?style=flat-square&logo=codechef)](https://www.codechef.com/users/harsha2023)
