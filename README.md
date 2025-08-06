@@ -7,7 +7,7 @@
 
 ### 🚀 About Me
 
-- 🔭 I recently completed an **8-week internship** in Front-End Development
+- 🔭 I recently completed an **8-week internship** in Full-Stack Development, Front-End Development
 - 💡 Built real-world projects like **Exam Seating Management**, **PowerX-Fitness Logger Website**, **World Wide Cars**
 - 💻 I love working with **React, Express.js, Node.js, MongoDB, HTML/CSS**, and designing **responsive, UIs**
 - 🌱 Currently learning: **Spring Boot**, and **API integrations**
